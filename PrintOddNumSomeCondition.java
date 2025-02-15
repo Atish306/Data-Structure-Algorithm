@@ -1,4 +1,4 @@
-public class Main
+public class PrintOddNumSomeCondition
 {
 	public static void main(String[] args) {
 	    int count = 0;
